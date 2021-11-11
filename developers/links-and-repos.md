@@ -33,7 +33,7 @@ View all of the HyperVIBES docs in [Google Drive](https://drive.google.com/drive
 
 ### Contract Addresses
 
-All contracts are verified on their respective blockchain explore apps.
+All contracts are verified on their respective blockchain explorer apps.
 
 #### Mainnet Deployments
 

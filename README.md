@@ -11,9 +11,10 @@ HyperVIBES is
 * 🎁 Open Source
 * 🥳 Massively Multiplayer
 * 🌈 Public Infrastructure
+* 🚀 Unstoppable and Censor-Proof
 * 💖 Free Forever
 
-Feel free to use HyperVIBES however you want.
+**Feel free to use HyperVIBES in any way you want.**
 
 {% hint style="info" %}
 **The possibilities are endless in the realms of your imagination.**&#x20;
@@ -25,9 +26,13 @@ What would you do with that power?
 [README (1).md](<README (1).md>)
 {% endcontent-ref %}
 
+{% content-ref url="use-cases.md" %}
+[use-cases.md](use-cases.md)
+{% endcontent-ref %}
+
 ### Integrating
 
-You can use HyperVIBES without having to write any code, but direct smart contract integrations can add infusion capabilities to your protocol or NFT project with just a few lines of code.
+You can use HyperVIBES without having to write any code, but direct smart contract integrations can rapidly add infusion capabilities to your protocol or NFT project.
 
 {% content-ref url="developers/integrating.md" %}
 [integrating.md](developers/integrating.md)
