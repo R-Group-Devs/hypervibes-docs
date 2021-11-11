@@ -29,6 +29,8 @@ Beyond in-repo documentation and this docs site, Google Docs was used extensivel
 
 {% hint style="info" %}
 View all of the HyperVIBES docs in [Google Drive](https://drive.google.com/drive/u/0/folders/1L9s4HIB3zDNUpPXAVo7zQsgqK5U3abGe).
+
+These docs should be considered historical reference mostly, the `docs.hypervibes.xyz` site is the current living documentation for the project.
 {% endhint %}
 
 ### Contract Addresses
@@ -37,9 +39,23 @@ All contracts are verified on their respective blockchain explorer apps.
 
 #### Mainnet Deployments
 
-Coming soon!
+Coming soon.
 
 #### Testnet Deployments
 
 * Ropsten - [`0x9Dd0d07224bAA34Da65709927f99BEe6DAFE6862`](https://ropsten.etherscan.io/address/0x9Dd0d07224bAA34Da65709927f99BEe6DAFE6862)
 * Rinkeby - [`0xe40d31e51bEc80ba5Bd1A1074134FA61cc557927`](https://rinkeby.etherscan.io/address/0xe40d31e51bEc80ba5Bd1A1074134FA61cc557927)
+
+{% content-ref url="integration.md" %}
+[integration.md](integration.md)
+{% endcontent-ref %}
+
+### Subgraphs
+
+On-chain data from HyperVIBES is indexed via TheGraph:
+
+* Rinkeby - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby)&#x20;
+
+{% content-ref url="subgraph.md" %}
+[subgraph.md](subgraph.md)
+{% endcontent-ref %}

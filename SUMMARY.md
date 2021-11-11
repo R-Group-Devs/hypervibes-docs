@@ -7,11 +7,14 @@
 
 ## Developers
 
-* [🏗 Integrating](developers/integrating.md)
+* [🏗 Integration](developers/integration.md)
+* [🛰 Subgraph](developers/subgraph.md)
 * [⚙ Links and Repos](developers/links-and-repos.md)
 
 ## Links
 
 * [HyperVIBES](https://hypervibes.xyz)
-* [Discord](https://discord.gg/ZtZqH7nfgG)
 * [Rarible DAO](https://rarible.org)
+* [Discord](https://discord.gg/ZtZqH7nfgG)
+* [Twitter](https://twitter.com/raribledao)
+* [GitHub](https://github.com/R-Group-Devs)

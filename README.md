@@ -34,8 +34,8 @@ What would you do with that power?
 
 You can use HyperVIBES without having to write any code, but direct smart contract integrations can rapidly add infusion capabilities to your protocol or NFT project.
 
-{% content-ref url="developers/integrating.md" %}
-[integrating.md](developers/integrating.md)
+{% content-ref url="developers/integration.md" %}
+[integration.md](developers/integration.md)
 {% endcontent-ref %}
 
 ### Contributing
