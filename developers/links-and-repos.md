@@ -6,7 +6,7 @@ All documentation and source code is free to view, fork, or copy.
 
 ### Source Code
 
-All code is hosted in the `r-group-dev` GitHub organization:
+All code is hosted in the `r-group-devs` GitHub organization:
 
 * [hypervibes-docs](https://github.com/R-Group-Devs/hypervibes-docs)
 * [hypervibes-marketing-site](https://github.com/R-Group-Devs/hypervibes-marketing-site)
