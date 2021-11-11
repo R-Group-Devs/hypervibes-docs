@@ -1,7 +1,7 @@
 # Table of contents
 
-* [🛸 Overview](README.md)
-* [🚀 Getting Started](getting-started.md)
+* [😎 Welcome](README.md)
+* [🛸 Overview](<README (1).md>)
 * [🥳 Use Cases](use-cases.md)
 * [❓ FAQ](faq.md)
 
