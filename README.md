@@ -1,6 +1,6 @@
 # 😎 Welcome
 
-**HyperVIBES **is a public protocol that let's you infuse ERC-20 tokens into any ERC-721 NFT**.**&#x20;
+**HyperVIBES **is a public protocol from [**Rarible DAO**](https://discord.gg/ZtZqH7nfgG) that let's you infuse ERC-20 tokens into any ERC-721 NFT**.**&#x20;
 
 Infused tokens can be mined and claimed by the NFT owner over time.
 
@@ -29,8 +29,8 @@ What would you do with that power?
 
 You can use HyperVIBES without having to write any code, but direct smart contract integrations can add infusion capabilities to your protocol or NFT project with just a few lines of code.
 
-{% content-ref url="developers/integrations.md" %}
-[integrations.md](developers/integrations.md)
+{% content-ref url="developers/integrating.md" %}
+[integrating.md](developers/integrating.md)
 {% endcontent-ref %}
 
 ### Contributing
@@ -42,7 +42,7 @@ HyperVIBES is an immutable and non-upgradeable protocol with no admin functional
 {% endcontent-ref %}
 
 {% hint style="info" %}
-**If you're looking to build**, come hang in the [Rarible DAO Discord](https://discord.gg/ZtZqH7nfgG).&#x20;
+**If you're looking to build**, come hang in the [**Rarible DAO Discord**](https://discord.gg/ZtZqH7nfgG).&#x20;
 
 We're working to make a habit of shipping fun and highly-composable decentralized software like HyperVIBES.
 {% endhint %}

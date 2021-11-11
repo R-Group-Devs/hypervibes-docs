@@ -7,7 +7,7 @@
 
 ## Developers
 
-* [🏗 Integrations](developers/integrations.md)
+* [🏗 Integrating](developers/integrating.md)
 * [⚙ Links and Repos](developers/links-and-repos.md)
 
 ## Links

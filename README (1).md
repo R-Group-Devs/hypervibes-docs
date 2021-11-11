@@ -7,3 +7,14 @@ Anyone can create a realm, which is a fully configurable and isolated environmen
 {% hint style="info" %}
 [Rarible DAO](https://discord.gg/ZtZqH7nfgG) built this protocol as a [global public good](https://newsletter.banklesshq.com/p/global-public-goods-and-the-protocol) to enrich the broader NFT ecosystem, encourage experimentation, and foster creative innovation.
 {% endhint %}
+
+### Provenance Mining
+
+### Multi-Tenancy
+
+### Permissionless
+
+### Trustless Infrastructure
+
+### Extension and Composition
+
