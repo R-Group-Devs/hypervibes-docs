@@ -5,6 +5,13 @@
 * [🥳 Use Cases](use-cases.md)
 * [❓ FAQ](faq.md)
 
+## protocol
+
+* [🌎 Realms](protocol/realms.md)
+* [🔥 Infusion](protocol/infusion.md)
+* [🤑 Claiming](protocol/claiming.md)
+* [💼 Proxies](protocol/proxies.md)
+
 ## Developers
 
 * [🏗 Integration](developers/integration.md)

@@ -1,12 +1,36 @@
 # ❓ FAQ
 
+### What is HyperVIBES?
+
+HyperVIBES is a public and multi-tenanted provenance mining protocol created by Rarible DAO.
+
+{% content-ref url="README (1).md" %}
+[README (1).md](<README (1).md>)
+{% endcontent-ref %}
+
 ### What is provenance mining?
 
 Provenance mining is a mechanism that allows an NFT to mine tokens over time which the owner of the NFT can claim. Unclaimed tokens stay within the NFT across sales or transfers.
 
+### How does HyperVIBES relate to Rarible?
+
+HyperVIBES was built by Rarible DAO as a [global public good](https://newsletter.banklesshq.com/p/global-public-goods-and-the-protocol) to enrich the broader NFT ecosystem, encourage experimentation, and foster creative innovation.
+
+It does not directly relate to the Rarible exchange protocol nor rarible.com.
+
+{% hint style="info" %}
+**HyperVIBES works with any ERC-721 NFTs from any platform.**
+
+You do not need to mint on a specific platform nor use a custom ERC-721 contract.
+{% endhint %}
+
 ### What is a realm?
 
 A HyperVIBES realm is an isolated environment with a specific ERC-20 token and various configuration options. Anybody is free to create a realm for their own experiments, protocols, and projects.
+
+{% content-ref url="protocol/realms.md" %}
+[realms.md](protocol/realms.md)
+{% endcontent-ref %}
 
 ### How do I create a realm?
 
@@ -22,9 +46,27 @@ More direct integrations can be built by directly invoking the HyperVIBES smart 
 [integration.md](developers/integration.md)
 {% endcontent-ref %}
 
+### What is infusion?
+
+Infusion is the act of taking tokens from your wallet and staking them inside of an NFT. Infused tokens are mined over time by the NFT, and are claimable by the owner of the NFT. Unclaimed tokens stay within the NFT across sales or transfers.
+
+Infused tokens cannot be removed from the NFT except via the mining process.
+
+{% content-ref url="protocol/infusion.md" %}
+[infusion.md](protocol/infusion.md)
+{% endcontent-ref %}
+
 ### How can I infuse an NFT?
 
 You can view all realms that you are allowed to infuse within the HyperVIBES dApp (coming soon). After selecting a specific realm, you can then choose to infuse NFTs based on the constraints and realm configuration.
+
+### What does it mean to claim infused tokens?
+
+Claiming tokens is possible after an infused NFT has mined them over time. The owner of the NFT can claim tokens at anytime, depending on realm configuration. Unclaimed tokens stay within the NFT across sales or transfers.
+
+{% content-ref url="protocol/claiming.md" %}
+[claiming.md](protocol/claiming.md)
+{% endcontent-ref %}
 
 ### How do I claim infused tokens?
 
@@ -36,7 +78,11 @@ Any ERC-721 NFTs can be infused via the protocol, depending on realm configurati
 
 HyperVIBES is not a minting platform, it was designed to allow infusing tokens into NFTs minted on any platform.
 
-You do not have to use rarible.com NFTs with HyperVIBES.
+{% hint style="info" %}
+**You do not have to use rarible.com NFTs with HyperVIBES. **
+
+You can use any ERC-721 you want, without any modification or custom code.
+{% endhint %}
 
 ### What tokens can I infuse via HyperVIBES?
 

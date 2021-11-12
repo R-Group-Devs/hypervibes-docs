@@ -12,6 +12,7 @@ HyperVIBES is:
 * 🥳 Massively Multiplayer
 * 🌈 Public Infrastructure
 * 🚀 Unstoppable and Censor-Proof
+* 🌎 Multi-chain
 * 💖 Free Forever
 
 **Feel free to use HyperVIBES in any way you want.**

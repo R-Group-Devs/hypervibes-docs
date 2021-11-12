@@ -4,6 +4,12 @@ HyperVIBES can be used entirely from the UI without having to write any code.
 
 Deeper integration and customization is possible for developers and builders who wish to deploy their own smart contracts.
 
+{% hint style="info" %}
+**Thinking of building an advanced integration with HyperVIBES? **
+
+Come hang in the [**Rarible DAO Discord**](https://discord.gg/ZtZqH7nfgG), we'd love to hear what you have in mind and would be happy to answer any questions .
+{% endhint %}
+
 {% content-ref url="../use-cases.md" %}
 [use-cases.md](../use-cases.md)
 {% endcontent-ref %}
