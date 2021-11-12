@@ -45,6 +45,7 @@ Coming soon.
 
 * Ropsten - [`0x9Dd0d07224bAA34Da65709927f99BEe6DAFE6862`](https://ropsten.etherscan.io/address/0x9Dd0d07224bAA34Da65709927f99BEe6DAFE6862)
 * Rinkeby - [`0xe40d31e51bEc80ba5Bd1A1074134FA61cc557927`](https://rinkeby.etherscan.io/address/0xe40d31e51bEc80ba5Bd1A1074134FA61cc557927)
+* Mumbai - [`0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`](https://mumbai.polygonscan.com/address/0x26887a9f95e1794e52ae1b72bfa404c1562eed0e)``
 
 {% content-ref url="integration.md" %}
 [integration.md](integration.md)
@@ -54,7 +55,9 @@ Coming soon.
 
 On-chain data from HyperVIBES is indexed via TheGraph:
 
+* Ropsten - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-ropsten](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-ropsten)
 * Rinkeby - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby)&#x20;
+* Mumbai - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mumbai](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mumbai)
 
 {% content-ref url="subgraph.md" %}
 [subgraph.md](subgraph.md)
