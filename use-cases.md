@@ -1,6 +1,6 @@
 # 🥳 Use Cases
 
-HyperVIBES is designed to be a flexible and low-level building block for the community to experiment with. A significant amount of applications are possible without having to even deploy a smart contract.
+HyperVIBES is designed to be a flexible and low-level building block for the community to experiment with. A variety of applications are possible without having to even deploy a smart contract.
 
 We're excited to see the use cases the community comes up with!
 

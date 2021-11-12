@@ -5,7 +5,9 @@
 Anyone can create a realm, which is a fully configurable and isolated environment within the protocol. Depending on realm configuration, infused tokens may be claimed by the owner of the NFT over time.
 
 {% hint style="info" %}
-[Rarible DAO](https://discord.gg/ZtZqH7nfgG) built this protocol as a [global public good](https://newsletter.banklesshq.com/p/global-public-goods-and-the-protocol) to enrich the broader NFT ecosystem, encourage experimentation, and foster creative innovation.
+****[**Rarible DAO**](https://discord.gg/ZtZqH7nfgG)** built this protocol as a **[**global public good**](https://newsletter.banklesshq.com/p/global-public-goods-and-the-protocol) to enrich the broader NFT ecosystem, encourage experimentation, and foster creative innovation.
+
+HyperVIBES works with all ERC-721 NFTs, you do not have to mint on rarible.com.
 {% endhint %}
 
 ### Provenance Mining

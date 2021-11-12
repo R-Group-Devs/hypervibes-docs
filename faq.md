@@ -18,6 +18,10 @@ You can use HyperVIBES with any ERC-721 and ERC-20 token without having to write
 
 More direct integrations can be built by directly invoking the HyperVIBES smart contract from your protocol.
 
+{% content-ref url="developers/integration.md" %}
+[integration.md](developers/integration.md)
+{% endcontent-ref %}
+
 ### How can I infuse an NFT?
 
 You can view all realms that you are allowed to infuse within the HyperVIBES dApp (coming soon). After selecting a specific realm, you can then choose to infuse NFTs based on the constraints and realm configuration.
@@ -32,9 +36,13 @@ Any ERC-721 NFTs can be infused via the protocol, depending on realm configurati
 
 HyperVIBES is not a minting platform, it was designed to allow infusing tokens into NFTs minted on any platform.
 
+You do not have to use rarible.com NFTs with HyperVIBES.
+
 ### What tokens can I infuse via HyperVIBES?
 
-Any ERC-20 tokens can be used with HyperVIBES. Each realm is configured with a single token.
+Any ERC-20 tokens can be used with HyperVIBES.&#x20;
+
+Each realm is configured with a single token.
 
 ### What does it cost to use HyperVIBES?
 
@@ -50,6 +58,10 @@ Peripheral communities may choose to launch a DAO / token.
 
 Anything you want. The only limit is your imagination.
 
+{% content-ref url="use-cases.md" %}
+[use-cases.md](use-cases.md)
+{% endcontent-ref %}
+
 ### Can an NFT be infused with multiple tokens?
 
 Yes, a single NFT could be infused across an infinite number of realms and mining several tokens simultaneously.
@@ -64,3 +76,6 @@ This depends on the realm configuration.
 
 Hang out in the [Rarible DAO Discord](https://discord.gg/ZtZqH7nfgG)! We're working to make a habit of shipping fun and highly-composable decentralized software like HyperVIBES.
 
+{% content-ref url="developers/links-and-repos.md" %}
+[links-and-repos.md](developers/links-and-repos.md)
+{% endcontent-ref %}
