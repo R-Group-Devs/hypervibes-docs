@@ -1,6 +1,6 @@
 # 😎 Welcome
 
-**HyperVIBES **is a public protocol from [**Rarible DAO**](https://discord.gg/ZtZqH7nfgG) that lets you infuse any ERC-20 token into any ERC-721 NFT**.**&#x20;
+**HyperVIBES **is a public and free protocol from [**Rarible DAO**](https://discord.gg/ZtZqH7nfgG) that lets you infuse any ERC-20 token into ERC-721 NFTs from any minting platform**.**&#x20;
 
 Infused tokens can be mined and claimed by the NFT owner over time.
 
