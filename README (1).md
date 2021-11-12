@@ -22,6 +22,14 @@ If the NFT is sold or transferred to another owner, unclaimed tokens stay within
 Provenance mining tokenizes of the act of holding an NFT over time.
 {% endhint %}
 
+{% content-ref url="protocol/infusion.md" %}
+[infusion.md](protocol/infusion.md)
+{% endcontent-ref %}
+
+{% content-ref url="protocol/claiming.md" %}
+[claiming.md](protocol/claiming.md)
+{% endcontent-ref %}
+
 ### Multi-Tenancy
 
 HyperVIBES is a [multi-tenanted](https://en.wikipedia.org/wiki/Multitenancy) protocol. Each isolated tenant is known as a HyperVIBES **realm**.
@@ -29,6 +37,10 @@ HyperVIBES is a [multi-tenanted](https://en.wikipedia.org/wiki/Multitenancy) pro
 This means that anybody can permissionlessly create a new realm, with any token they want, configured however they like... without having to fork or deploy a smart contract.
 
 Realms are completely isolated and independent from one another. It's possible for a single NFT to have infused tokens from several different realms.
+
+{% content-ref url="protocol/realms.md" %}
+[realms.md](protocol/realms.md)
+{% endcontent-ref %}
 
 ### Permissionless
 
