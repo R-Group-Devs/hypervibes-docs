@@ -8,8 +8,6 @@ Provenance mining is a mechanism that allows an NFT to mine ERC-20 tokens over t
 
 Infused tokens are then mined by the NFT over time at a linear rate as configured in the realm. Mined tokens do not automatically go to the NFT owner's wallet, they must be "claimed" at some point (_see below_).
 
-Once tokens have been infused, there is no way to get them back except through provenance mining.
-
 * Tokens immediately start mining on the same block they are infused.
 * If the **require NFT is owned **constraint of the realm is `true`, the infuser must own the NFT being infused.
 * If the **allow public infusion **constraint of the realm is `false`, the infuser must be on the list of allowed infusers for that realm.
