@@ -22,12 +22,8 @@ If the NFT is sold or transferred to another owner, unclaimed tokens stay within
 Provenance mining tokenizes of the act of holding an NFT over time.
 {% endhint %}
 
-{% content-ref url="protocol/infusion.md" %}
-[infusion.md](protocol/infusion.md)
-{% endcontent-ref %}
-
-{% content-ref url="protocol/claiming.md" %}
-[claiming.md](protocol/claiming.md)
+{% content-ref url="protocol/provenance-mining.md" %}
+[provenance-mining.md](protocol/provenance-mining.md)
 {% endcontent-ref %}
 
 ### Multi-Tenancy

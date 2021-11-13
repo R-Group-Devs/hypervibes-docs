@@ -107,7 +107,7 @@ Like all GraphQL APIs, you can use introspection to explore the schema, types, a
 
 #### Get details about a specific account (wallet / agent)
 
-```
+```graphql
 {
   account(id:"0xa34c3476ae0c4863fc39e32c0e666219503bed9f") {
     address

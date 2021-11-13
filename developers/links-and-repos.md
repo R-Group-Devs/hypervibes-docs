@@ -30,7 +30,7 @@ Beyond in-repo documentation and this docs site, Google Docs was used extensivel
 {% hint style="info" %}
 View all of the HyperVIBES docs in [Google Drive](https://drive.google.com/drive/u/0/folders/1L9s4HIB3zDNUpPXAVo7zQsgqK5U3abGe).
 
-These docs should be considered historical reference mostly, the `docs.hypervibes.xyz` site is the current living documentation for the project.
+**These docs should be considered historical reference **mostly, this site is the current living documentation for the project.
 {% endhint %}
 
 ### Contract Addresses

@@ -10,7 +10,7 @@ HyperVIBES is a public and multi-tenanted provenance mining protocol created by 
 
 ### What is provenance mining?
 
-Provenance mining is a mechanism that allows an NFT to mine tokens over time which the owner of the NFT can claim. Unclaimed tokens stay within the NFT across sales or transfers.
+Provenance mining is a mechanism that allows an NFT to mine tokens over time that the owner of the NFT can claim. Unclaimed tokens stay within the NFT across sales or transfers.
 
 ### How does HyperVIBES relate to Rarible?
 
@@ -52,8 +52,8 @@ Infusion is the act of taking tokens from your wallet and staking them inside of
 
 Infused tokens cannot be removed from the NFT except via the mining process.
 
-{% content-ref url="protocol/infusion.md" %}
-[infusion.md](protocol/infusion.md)
+{% content-ref url="protocol/provenance-mining.md" %}
+[provenance-mining.md](protocol/provenance-mining.md)
 {% endcontent-ref %}
 
 ### How can I infuse an NFT?
@@ -64,8 +64,8 @@ You can view all realms that you are allowed to infuse within the HyperVIBES dAp
 
 Claiming tokens is possible after an infused NFT has mined them over time. The owner of the NFT can claim tokens at anytime, depending on realm configuration. Unclaimed tokens stay within the NFT across sales or transfers.
 
-{% content-ref url="protocol/claiming.md" %}
-[claiming.md](protocol/claiming.md)
+{% content-ref url="protocol/provenance-mining.md" %}
+[provenance-mining.md](protocol/provenance-mining.md)
 {% endcontent-ref %}
 
 ### How do I claim infused tokens?

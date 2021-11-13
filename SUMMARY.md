@@ -8,8 +8,7 @@
 ## protocol
 
 * [🌎 Realms](protocol/realms.md)
-* [🔥 Infusion](protocol/infusion.md)
-* [🤑 Claiming](protocol/claiming.md)
+* [💎 Provenance Mining](protocol/provenance-mining.md)
 * [💼 Proxies](protocol/proxies.md)
 
 ## Developers
