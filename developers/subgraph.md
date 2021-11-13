@@ -86,6 +86,7 @@ Like all GraphQL APIs, you can use introspection to explore the schema, types, a
 
     realmAdmins { account { address } }
     realmInfusers { account { address } }
+    realmClaimers { account { address } }
     realmCollections { collection { address } }
 
     # get all infused nfts, balances, info, and events (claims and infusions)
@@ -117,15 +118,18 @@ Like all GraphQL APIs, you can use introspection to explore the schema, types, a
 
     # realms this account is an infuser for
     realmInfusers { realm { id name } }
+    
+    # realms this account is a claimer for
+    realmClaimers { realm { id name } }
 
     # realms this account has created
     createdRealms {id name}
 
-    # any accounts this account can infuse on behalf of
-    infusionProxiesAsProxy { realm { id name } infuser { address } }
+    # any accounts this account can infuse/claim on behalf of
+    proxiesAsProxy { realm { id name } delegator { address } }
 
-    # any accounts that can infuse on behalf of this account
-    infusionProxiesAsInfuser { realm { id name } proxy { address } }
+    # any accounts that can infuse/claim on behalf of this account
+    proxiesAsDelegator { realm { id name } proxy { address } }
 
     # all nfts owned by this account that have been infused across all realms
     ownedNFTs {
