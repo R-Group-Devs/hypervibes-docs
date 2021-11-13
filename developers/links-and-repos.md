@@ -43,9 +43,9 @@ Coming soon.
 
 #### Testnet Deployments
 
-* Ropsten - [`0x9Dd0d07224bAA34Da65709927f99BEe6DAFE6862`](https://ropsten.etherscan.io/address/0x9Dd0d07224bAA34Da65709927f99BEe6DAFE6862)
-* Rinkeby - [`0xe40d31e51bEc80ba5Bd1A1074134FA61cc557927`](https://rinkeby.etherscan.io/address/0xe40d31e51bEc80ba5Bd1A1074134FA61cc557927)
-* Mumbai - [`0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`](https://mumbai.polygonscan.com/address/0x26887a9f95e1794e52ae1b72bfa404c1562eed0e)``
+* Ropsten - `0xdd6C37Cff83609Db2B3C1BA6461eF321C9ed0A80`
+* Rinkeby - `0xC47238d8d7468E6F45f2f4a5a4506BD5eEACC5B3`
+* Mumbai - `0x03741151f5E6CF9736455C0CBCD512bfA8529C93`
 
 {% content-ref url="integration.md" %}
 [integration.md](integration.md)
