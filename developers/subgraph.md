@@ -75,7 +75,6 @@ Like all GraphQL APIs, you can use introspection to explore the schema, types, a
     # constraints
 
     minInfusionAmount
-    maxInfusionAmount
     maxTokenBalance
     allowMultiInfuse
     allowPublicInfusion
