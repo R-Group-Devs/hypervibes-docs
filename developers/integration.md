@@ -43,3 +43,13 @@ Smart contracts can directly integrate the HyperVIBES protocols to implement the
 {% content-ref url="links-and-repos.md" %}
 [links-and-repos.md](links-and-repos.md)
 {% endcontent-ref %}
+
+#### Proxies
+
+For custom infusion or claim functionality implemented as a smart contract frontend to HyperVIBES, infusion and claim power must be delegated explicitly to another address via the **proxy **approval step.
+
+This is done to ensure it's impossible to attribute infusion or claim tokens on behalf of another address without their explicit approval.
+
+{% content-ref url="../protocol/proxies.md" %}
+[proxies.md](../protocol/proxies.md)
+{% endcontent-ref %}
