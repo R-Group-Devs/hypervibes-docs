@@ -49,7 +49,7 @@ There is no gatekeeping or privileged authority within the HyperVIBES protocol.
 This creates a system of parallel, opt-in, non-coercive and non-rivalrous realms of experimentation layered within any infused NFT.
 {% endhint %}
 
-While the protocol itself is not permissioned in any way, individual realms can be configure to limit what agents can infuse or what collections are allowed to be infused, along with several other realm constraints.
+While the protocol itself is not permissioned in any way, individual realms can be configured to limit what agents can infuse or what collections are allowed to be infused, along with several other realm constraints.
 
 ### Trustless Infrastructure
 
