@@ -21,6 +21,10 @@
 * [🛰 Subgraph](developers/subgraph.md)
 * [⚙ Links and Repos](developers/links-and-repos.md)
 
+***
+
+* [🚧 Disclaimer](disclaimer.md)
+
 ## Links
 
 * [HyperVIBES](https://hypervibes.xyz)
