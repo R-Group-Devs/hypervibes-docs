@@ -5,6 +5,10 @@
 * [🥳 Use Cases](use-cases.md)
 * [❓ FAQ](faq.md)
 
+## Guides
+
+* [🏄♀ Dive In](guides/dive-in.md)
+
 ## protocol
 
 * [🌎 Realms](protocol/realms.md)
