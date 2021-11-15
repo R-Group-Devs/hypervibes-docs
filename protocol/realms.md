@@ -8,8 +8,10 @@ Permissionless creation of realms allows anybody to build any protocol, experime
 This also means that **most use cases for HyperVIBES can be implemented without having to write any custom code** nor deploy a smart contract
 {% endhint %}
 
-{% content-ref url="../use-cases.md" %}
-[use-cases.md](../use-cases.md)
+Wanna dive in head-first? Check out the entire [**Getting Started**](../guides/getting-started/) guide or jump right to the realm creation page:
+
+{% content-ref url="../guides/getting-started/create-your-realm.md" %}
+[create-your-realm.md](../guides/getting-started/create-your-realm.md)
 {% endcontent-ref %}
 
 ### Realm Configuration
@@ -48,3 +50,9 @@ Realm constraints determine the behavior around infusing, claiming, and token mi
 * **allow public infusion** - If true, anybody with enough tokens may infuse an NFT. If false, they must be on the **infusers** list
 * **allow public claiming** - If true, anybody who owns an infused NFT may claim the mined tokens inside that NFT. If false, they must be on the **claimers** list.
 * **allow all collections **- If true, NFTs from any ERC-721 contract can be infused. If false, the contract address must be on the **collections** list.
+
+Realm constraints allow for a large range of possible mechanics and behaviors.
+
+{% content-ref url="../use-cases.md" %}
+[use-cases.md](../use-cases.md)
+{% endcontent-ref %}

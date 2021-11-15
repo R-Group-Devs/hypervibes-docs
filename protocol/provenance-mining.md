@@ -27,6 +27,10 @@ Infused tokens are then mined by the NFT over time at a linear rate as configure
 * If the infusion would result in a staked token balance for that NFT that is greater than the **max token balance **constraint for the realm, infused amount is clamped (limited) to the **max token balance** amount. If this clamped amount is less than **min infusion amount**, the infusion will fail.
 * If the specified infuser is different than the address submitting the transaction, the infuser must have approved the sender as an [**authorized proxy**](proxies.md)** **ahead of time.
 
+{% content-ref url="../guides/getting-started/infuse-your-nfts.md" %}
+[infuse-your-nfts.md](../guides/getting-started/infuse-your-nfts.md)
+{% endcontent-ref %}
+
 ### Claiming
 
 **Claiming** is the act of withdrawing mined tokens from an infused NFT to the NFT owner's wallet.&#x20;
@@ -37,3 +41,7 @@ Only mined tokens can be claimed, while un-mined tokens stay staked within the N
 * It is possible to claim less than the total claimable amount if desired.
 * If the **allow public claiming** constraint of the realm is `false`, the claimer must be on the list of allowed claimers for that realm.
 * If the address submitting the claim transaction does not own the NFT, the NFT owner must have approved the sender as an [**authorized proxy**](proxies.md)** **ahead of time
+
+{% content-ref url="../guides/getting-started/claim-tokens.md" %}
+[claim-tokens.md](../guides/getting-started/claim-tokens.md)
+{% endcontent-ref %}

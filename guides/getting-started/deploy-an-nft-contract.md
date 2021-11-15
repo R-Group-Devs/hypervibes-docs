@@ -1,15 +1,17 @@
 # 🎨 Deploy an NFT Contract
 
-Deploy your own ERC-721 via wemint.art. If you already have minted NFTs or have your own contract, then you can skip this step.
+Deploy your own ERC-721 via wemint.art.&#x20;
 
 * [https://wemint.art](https://wemint.art)
+
+**If you already have minted NFTs or have your own contract, then you can skip this step.**
 
 Controlling your own contract is a powerful way of establishing provenance around the pieces you mint.
 
 {% hint style="info" %}
 **You can use any existing ERC-721 NFTs as well**, HyperVIBES works across all minting platforms.
 
-Depending on how you configure your realm, you don't even need to own the NFTs to infuse them.
+Depending on how you configure the realm, you don't even need to own the NFTs to infuse them.
 {% endhint %}
 
 #### Deploy
@@ -20,7 +22,7 @@ Make sure to **CONNECT** your wallet to the wemint.art app via the button in the
 
 Once the contract is deployed:
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-15 at 1.57.09 PM.png>)
+![Contract succesfully deployed](<../../.gitbook/assets/Screen Shot 2021-11-15 at 1.57.09 PM.png>)
 
 {% hint style="info" %}
 **Notice the contract address once deployment has finished**, you'll need this later when setting up your realm.
@@ -28,7 +30,7 @@ Once the contract is deployed:
 
 #### Mint
 
-Select **HOW TO** in wemint.art for a basic walkthrough of getting artwork into IPFS. Alternatively, you can use the following metadata URI:
+Select **HOW TO** in wemint.art for a basic walkthrough of getting artwork into IPFS. Alternatively, you can use the following example metadata URI:
 
 * `ipfs://ipfs/QmPVEKvFEm9CHPzrKBuj7CPiEML9jKRUap7Lbpxu4tC1ce`
 
@@ -38,6 +40,8 @@ Once you have your metadata URI, select the **MINT** tab, provide the contract a
 
 Press **MINT! **and your NFT will be minted!
 
-* [https://testnets.opensea.io](https://testnets.opensea.io)
+* [https://testnets.opensea.io](https://testnets.opensea.io) - OpenSea sometimes has issues indexing NFTs on testnets, but you may be able to see it here.
 
-![](<../../.gitbook/assets/Screen Shot 2021-11-15 at 2.16.54 PM.png>)
+Example successful transaction following the initial mint:
+
+![etherscan.io](<../../.gitbook/assets/Screen Shot 2021-11-15 at 2.16.54 PM.png>)

@@ -33,7 +33,7 @@ What would you do with that power?
 
 ### Getting Started
 
-Want to jump into the deep end? Follow our **DIVE IN** guide to practice launching a custom token, NFT contract, and HyperVIBES realm on the Goerli testnet:
+Want to jump into the deep end? Follow our **Getting Started** guide to practice launching a custom token, NFT contract, and HyperVIBES realm on the Goerli testnet:
 
 {% content-ref url="guides/getting-started/" %}
 [getting-started](guides/getting-started/)

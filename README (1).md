@@ -16,6 +16,12 @@ Want to jump in head-first and start experimenting? Check out our complete walkt
 [getting-started](guides/getting-started/)
 {% endcontent-ref %}
 
+Or if you'd rather understand HyperVIBES via some concrete use cases:
+
+{% content-ref url="use-cases.md" %}
+[use-cases.md](use-cases.md)
+{% endcontent-ref %}
+
 ### Provenance Mining
 
 The core mechanism at the heart of HyperVIBES is **Provenance Mining**.

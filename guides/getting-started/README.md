@@ -2,7 +2,7 @@
 
 Welcome to **HyperVIBES**.** **
 
-This guide will walk you through using the HyperVIBES protocol on the **Goerli Test Network**:
+This step-by-step guide will walk you through using the HyperVIBES protocol on the **Goerli Test Network**:
 
 * 🦊 Get your browser setup with a web3 wallet ([https://metamask.io/](https://metamask.io))
 * 🚰 Request some test tokens on the Goerli network ([https://faucet.paradigm.xyz/](https://faucet.paradigm.xyz))

@@ -38,8 +38,8 @@ The [HyperVIBES dApp](https://app.hypervibes.xyz) can be used to create, view, a
 
 You can follow our getting started guide to launch your first realm on a testnet:
 
-{% content-ref url="guides/getting-started/" %}
-[getting-started](guides/getting-started/)
+{% content-ref url="guides/getting-started/create-your-realm.md" %}
+[create-your-realm.md](guides/getting-started/create-your-realm.md)
 {% endcontent-ref %}
 
 ### How do I integrate HyperVIBES into my protocol?
@@ -66,6 +66,10 @@ Infused tokens cannot be removed from the NFT except via the mining process.
 
 You can view all realms that you are allowed to infuse within the [HyperVIBES dApp](https://app.hypervibes.xyz). After selecting a specific realm, you can then choose to infuse NFTs based on the constraints and realm configuration.
 
+{% content-ref url="guides/getting-started/infuse-your-nfts.md" %}
+[infuse-your-nfts.md](guides/getting-started/infuse-your-nfts.md)
+{% endcontent-ref %}
+
 ### What does it mean to claim infused tokens?
 
 Claiming tokens is possible after an infused NFT has mined them over time. The owner of the NFT can claim tokens at anytime, depending on realm configuration. Unclaimed tokens stay within the NFT across sales or transfers.
@@ -78,9 +82,13 @@ Claiming tokens is possible after an infused NFT has mined them over time. The o
 
 You can view all realms that you can claim tokens from in the [HyperVIBES dApp](https://app.hypervibes.xyz). After selecting a specific realm, you can then browse the NFTs you own with claimable tokens.
 
+{% content-ref url="guides/getting-started/claim-tokens.md" %}
+[claim-tokens.md](guides/getting-started/claim-tokens.md)
+{% endcontent-ref %}
+
 ### What NFTs can I infuse via HyperVIBES?
 
-Any ERC-721 NFTs can be infused via the protocol, depending on realm configuration. ERC-1155s cannot be infused.
+Any ERC-721 NFTs can be infused via the protocol, depending on realm configuration. **ERC-1155s cannot be infused.**
 
 HyperVIBES is not a minting platform, it was designed to allow infusing tokens into NFTs minted on any platform.
 
@@ -123,6 +131,10 @@ Depending on how a realm is configured, an NFT may be infused multiple times (fr
 ### Do you have to own the NFT to infuse it?
 
 This depends on the realm configuration.
+
+{% content-ref url="protocol/realms.md" %}
+[realms.md](protocol/realms.md)
+{% endcontent-ref %}
 
 ### How can I contribute?
 

@@ -1,13 +1,17 @@
 # 🤑 Deploy a Token
 
-Deploy your own ERC-20 token via CoinMechanic. If you already have a token you'd like to use, you can skip this step.
+Deploy your own ERC-20 token via CoinMechanic.&#x20;
 
 * [https://coinmechanic.io](https://coinmechanic.io)
+
+**If you already have a token you'd like to use, you can skip this step.**
 
 This could be a social token, community token, governance token... or anything else you could imagine.&#x20;
 
 {% hint style="info" %}
-**You could also use any existing ERC-20 token** (such as ENS, MIST, or USDC) for your realm -- but check your local jurisdiction's securities law before you get too crazy.
+**You could also use any existing ERC-20 token** (such as $ENS, $RARI, or $USDC) for your realm.
+
+Check your local jurisdiction's securities law before you get too crazy.
 {% endhint %}
 
 #### Deploy

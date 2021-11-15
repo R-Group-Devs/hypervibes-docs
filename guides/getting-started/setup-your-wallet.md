@@ -10,4 +10,4 @@ MetaMask will allow you to interact with Ethereum-based networks and testnets, a
 First time setting up metamask? [**Here is an official guide**](https://metamask.zendesk.com/hc/en-us/articles/360015489531-Getting-started-with-MetaMask)
 {% endhint %}
 
-Make sure you have selected the **Goerli Test Network** from the network dropdown menu at the top of the MetaMask window.
+Make sure you have selected the **Goerli Test Network** (or whatever testnet you prefer) from the network dropdown menu at the top of the MetaMask window.
