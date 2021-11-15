@@ -39,7 +39,8 @@ All contracts are verified on their respective blockchain explorer apps.
 
 #### Mainnet Deployments
 
-Coming soon.
+* Ethereum - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
+* Polygon - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
 
 #### Testnet Deployments
 
@@ -54,6 +55,13 @@ Coming soon.
 ### Subgraphs
 
 On-chain data from HyperVIBES is indexed via TheGraph:
+
+#### Mainnet Subgraphs
+
+* Ethereum - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mainnet](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mainnet)
+* Polygon -  [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-matic](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-matic)
+
+#### Testnet Subgraphs
 
 * Ropsten - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-ropsten](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-ropsten)
 * Rinkeby - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby)&#x20;
