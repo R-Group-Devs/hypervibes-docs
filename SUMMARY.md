@@ -7,7 +7,15 @@
 
 ## Guides
 
-* [🏄♀ Dive In](guides/dive-in.md)
+* [🏄♀ Getting Started](guides/getting-started/README.md)
+  * [🦊 Setup Your Wallet](guides/getting-started/setup-your-wallet.md)
+  * [🚰 Drip Some Funds](guides/getting-started/drip-some-funds.md)
+  * [🤑 Deploy a Token](guides/getting-started/deploy-a-token.md)
+  * [🎨 Deploy an NFT Contract](guides/getting-started/deploy-an-nft-contract.md)
+  * [🛸 Create Your Realm](guides/getting-started/create-your-realm.md)
+  * [🔥 Infuse Your NFTs](guides/getting-started/infuse-your-nfts.md)
+  * [👜 Claim Tokens](guides/getting-started/claim-tokens.md)
+  * [🌎 Share Your Realm](guides/getting-started/share-your-realm.md)
 
 ## protocol
 

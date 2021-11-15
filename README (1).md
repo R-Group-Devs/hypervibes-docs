@@ -10,6 +10,12 @@ Anyone can create a realm, which is a fully configurable and isolated environmen
 HyperVIBES works with all ERC-721 NFTs, you do not have to mint on rarible.com.
 {% endhint %}
 
+Want to jump in head-first and start experimenting? Check out our complete walkthrough:
+
+{% content-ref url="guides/getting-started/" %}
+[getting-started](guides/getting-started/)
+{% endcontent-ref %}
+
 ### Provenance Mining
 
 The core mechanism at the heart of HyperVIBES is **Provenance Mining**.

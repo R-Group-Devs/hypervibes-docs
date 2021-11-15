@@ -36,6 +36,12 @@ A HyperVIBES realm is an isolated environment with a specific ERC-20 token and v
 
 The [HyperVIBES dApp](https://app.hypervibes.xyz) can be used to create, view, and manage realms. You can also programmatically create realms directly from the smart contract by invoking the `createRealm` function.
 
+You can follow our getting started guide to launch your first realm on a testnet:
+
+{% content-ref url="guides/getting-started/" %}
+[getting-started](guides/getting-started/)
+{% endcontent-ref %}
+
 ### How do I integrate HyperVIBES into my protocol?
 
 You can use HyperVIBES with any ERC-721 and ERC-20 token without having to write any code or deploy a contract by using the [HyperVIBES dApp](https://app.hypervibes.xyz) to manage realms, infuse NFTs, and claim tokens.

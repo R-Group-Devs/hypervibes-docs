@@ -31,6 +31,14 @@ What would you do with that power?
 [use-cases.md](use-cases.md)
 {% endcontent-ref %}
 
+### Getting Started
+
+Want to jump into the deep end? Follow our **DIVE IN** guide to practice launching a custom token, NFT contract, and HyperVIBES realm on the Goerli testnet:
+
+{% content-ref url="guides/getting-started/" %}
+[getting-started](guides/getting-started/)
+{% endcontent-ref %}
+
 ### Integrating
 
 You can use HyperVIBES without having to write any code, but direct smart contract integrations can rapidly add infusion capabilities to your protocol or NFT project.
