@@ -22,7 +22,7 @@ View all of R-Group's [open source repos on GitHub](https://github.com/R-Group-D
 
 Beyond in-repo documentation and this docs site, Google Docs was used extensively during development:
 
-* [Initial Product Brief](https://docs.google.com/document/d/1NvztqdMAyLERTPuX5uHSnq8f5G0YVRaxNsq5UaXhQEw) - Used to convey the idea internally among the Builder's Group and nail down the key concepts
+* [Initial Product Brief](https://docs.google.com/document/d/1NvztqdMAyLERTPuX5uHSnq8f5G0YVRaxNsq5UaXhQEw) - Used to convey the idea internally among the Builder's Group and articulate the key concepts and scope of the project
 * [Initial Vibe Brainstorm](https://docs.google.com/document/d/1g7A-Pt48FBLlRODD6iA8TcQ5v22Jo5lIAdlcq\_EaQ4) - Nailing the vibe is critical. What should this protocol _feel_ like?
 * [MVP Coordination](https://docs.google.com/document/d/1dpMlzGeO4XfD6gBQoaTTXO2NxCCfA0hDYlTinJjCsfQ) - Helped track information across frontend and contract domains as development started
 * [Protocol One-Sheet](https://docs.google.com/document/d/1bpQfozAamT-zmYMm9aV0ao9KrBezCLTVEqM-\_UtHOGg) - Terse and straightforward info about the project that was shared externally to potential partners and internally to other working groups

@@ -46,5 +46,5 @@ Realm constraints determine the behavior around infusing, claiming, and token mi
 * **require NFT is owned **- If true, the infuser must own the NFT at time of infusion.
 * **allow multi infuse **- If true, an NFT can be infused more than once in the same realm.
 * **allow public infusion** - If true, anybody with enough tokens may infuse an NFT. If false, they must be on the **infusers** list
-* **allow public claiming** - If true, anybody who owns an infused NFT may claim the mined tokens. If false, they must be on the **claimers** list
+* **allow public claiming** - If true, anybody who owns an infused NFT may claim the mined tokens inside that NFT. If false, they must be on the **claimers** list.
 * **allow all collections **- If true, NFTs from any ERC-721 contract can be infused. If false, the contract address must be on the **collections** list.

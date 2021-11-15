@@ -16,18 +16,22 @@ Proxies are only needed for advanced integrations.
 
 ### Overview
 
-A HyperVIBES **proxy** is an address that an agent has delegated infusion and claiming functionality to.
+A HyperVIBES **proxy** is an address that an agent has delegated infusion and claiming functionality to for a specific realm.
 
 Once an agent (the delegator) has delegated to a proxy, the proxy may now:
 
 * **Infuse tokens into an NFT on behalf of the delegator**. Infused tokens must come from the proxy's address, and the delegator will be recorded as the infuser.
 * **Claim infused tokens from NFTs owned by the delegator**. Claimed tokens are sent to the proxy's address.
 
+{% hint style="info" %}
+**Proxies are scoped to a specific realm.** Authorizing a proxy does NOT allow it to infuse and claim on behalf of the delegator across all realms.
+{% endhint %}
+
 #### Design Rationale
 
 It can be useful to have a smart contract "frontend" to the infusion or claiming steps to add custom functionality for a realm beyond the built-in constraints.&#x20;
 
-However, we do not want to allow any contract to have the ability to attribute infusion nor claim tokens on behalf of an addresses without that address giving explicit authorization.&#x20;
+However, we do not want to allow any contract to have the ability to attribute infusion nor claim tokens on behalf of an address without that address giving explicit authorization.&#x20;
 
 {% hint style="info" %}
 This ensures that no matter how the realm is configured,** nobody can "spoof" the recorded infuser nor claim tokens without permission. **

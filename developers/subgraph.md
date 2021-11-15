@@ -22,7 +22,7 @@ Like all GraphQL APIs, you can use introspection to explore the schema, types, a
     id
     name
     description
-    token
+    token { address symbol name decimals }
     createdAtTimestamp
   }
 }
@@ -42,7 +42,7 @@ Like all GraphQL APIs, you can use introspection to explore the schema, types, a
 
     # there will be 1 Infusion entity for-each Realm this NFT is infused in
     infusions {
-      realm { id name }
+      realm { id name token { symbol } }
       balance
       lastClaimAtTimestamp
 
@@ -67,7 +67,7 @@ Like all GraphQL APIs, you can use introspection to explore the schema, types, a
     id
     name
     description
-    token
+    token { address symbol decimals }
     createdAtBlock
     createdAtTimestamp
     dailyRate
@@ -93,7 +93,7 @@ Like all GraphQL APIs, you can use introspection to explore the schema, types, a
     infusions {
       balance
       lastClaimAtTimestamp
-      nft { tokenId collection { address } owner { address } }
+      nft { tokenId tokenUri collection { address } owner { address } }
       events {
         createdAtTimestamp
         target { address }

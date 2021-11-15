@@ -18,7 +18,7 @@ Come hang in the [**Rarible DAO Discord**](https://discord.gg/ZtZqH7nfgG), we'd 
 
 If you are wanting to display HyperVIBES data in your own web app such as:
 
-* Infused token balances for a given NFT in a specific realm
+* Infused and claimable token balances for a given NFT in a specific realm
 * All NFTs infused within a specific realm
 * All realms an NFT has been infused within
 * All infused NFTs owned by a specific address
