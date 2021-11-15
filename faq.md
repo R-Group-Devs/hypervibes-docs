@@ -34,11 +34,11 @@ A HyperVIBES realm is an isolated environment with a specific ERC-20 token and v
 
 ### How do I create a realm?
 
-The HyperVIBES dApp (coming soon) can be used to create, view, and manage realms. You can also programmatically create realms directly from the smart contract by invoking the `createRealm` function.
+The [HyperVIBES dApp](https://app.hypervibes.xyz) can be used to create, view, and manage realms. You can also programmatically create realms directly from the smart contract by invoking the `createRealm` function.
 
 ### How do I integrate HyperVIBES into my protocol?
 
-You can use HyperVIBES with any ERC-721 and ERC-20 token without having to write any code or deploy a contract by using the HyperVIBES dApp (coming soon) to manage realms, infuse NFTs, and claim tokens.
+You can use HyperVIBES with any ERC-721 and ERC-20 token without having to write any code or deploy a contract by using the [HyperVIBES dApp](https://app.hypervibes.xyz) to manage realms, infuse NFTs, and claim tokens.
 
 More direct integrations can be built by directly invoking the HyperVIBES smart contract from your protocol.
 
@@ -58,7 +58,7 @@ Infused tokens cannot be removed from the NFT except via the mining process.
 
 ### How can I infuse an NFT?
 
-You can view all realms that you are allowed to infuse within the HyperVIBES dApp (coming soon). After selecting a specific realm, you can then choose to infuse NFTs based on the constraints and realm configuration.
+You can view all realms that you are allowed to infuse within the [HyperVIBES dApp](https://app.hypervibes.xyz). After selecting a specific realm, you can then choose to infuse NFTs based on the constraints and realm configuration.
 
 ### What does it mean to claim infused tokens?
 
@@ -70,7 +70,7 @@ Claiming tokens is possible after an infused NFT has mined them over time. The o
 
 ### How do I claim infused tokens?
 
-You can view all realms that you can claim tokens from in the HyperVIBES dApp (coming soon). After selecting a specific realm, you can then browse the NFTs you own with claimable tokens.
+You can view all realms that you can claim tokens from in the [HyperVIBES dApp](https://app.hypervibes.xyz). After selecting a specific realm, you can then browse the NFTs you own with claimable tokens.
 
 ### What NFTs can I infuse via HyperVIBES?
 
