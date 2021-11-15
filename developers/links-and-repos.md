@@ -46,6 +46,7 @@ All contracts are verified on their respective blockchain explorer apps.
 
 * Ropsten - `0xcd181fB818aaAae8D34D6D5bBe7aD4c44ac8af98`
 * Rinkeby - `0xafb96b99a0A4eF348115C6BbD99A71d3d4F52Ff1`
+* Goerli - `0x26887a9F95e1794e52aE1B72Bfa404c1562Eed0E`
 * Mumbai - `0x57FBF9E899E17E23d46425e33eE191C8FaD27c28`
 
 {% content-ref url="integration.md" %}
@@ -65,6 +66,7 @@ On-chain data from HyperVIBES is indexed via TheGraph:
 
 * Ropsten - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-ropsten](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-ropsten)
 * Rinkeby - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby)&#x20;
+* Goerli - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-goerli](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-goerli)
 * Mumbai - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mumbai](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mumbai)
 
 {% content-ref url="subgraph.md" %}

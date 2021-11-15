@@ -9,7 +9,7 @@ Contracts have not been formally audited.
 {% endhint %}
 
 {% hint style="warning" %}
-Nothing on this site or any other HyperVIBES page should be considered advice.
+Nothing on this site or any other HyperVIBES page should be considered financial advice.
 {% endhint %}
 
 ### Project Source Code
