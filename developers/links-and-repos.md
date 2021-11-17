@@ -41,6 +41,7 @@ All contracts are verified on their respective blockchain explorer apps.
 
 * Ethereum - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
 * Polygon - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
+* Arbitrum - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
 
 #### Testnet Deployments
 
@@ -48,6 +49,7 @@ All contracts are verified on their respective blockchain explorer apps.
 * Rinkeby - `0xafb96b99a0A4eF348115C6BbD99A71d3d4F52Ff1`
 * Goerli - `0x26887a9F95e1794e52aE1B72Bfa404c1562Eed0E`
 * Mumbai - `0x57FBF9E899E17E23d46425e33eE191C8FaD27c28`
+* Arbitrum Rinkeby - `0x26887a9F95e1794e52aE1B72Bfa404c1562Eed0E`
 
 {% content-ref url="integration.md" %}
 [integration.md](integration.md)
@@ -61,6 +63,7 @@ On-chain data from HyperVIBES is indexed via TheGraph:
 
 * Ethereum - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mainnet](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mainnet)
 * Polygon -  [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-matic](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-matic)
+* Arbitrum - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-arbitrum-one](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-arbitrum-one)
 
 #### Testnet Subgraphs
 
@@ -68,6 +71,7 @@ On-chain data from HyperVIBES is indexed via TheGraph:
 * Rinkeby - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-rinkeby)&#x20;
 * Goerli - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-goerli](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-goerli)
 * Mumbai - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mumbai](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mumbai)
+* Arbitrum Rinkeby - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-arbitrum-rinkeby](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-arbitrum-rinkeby)
 
 {% content-ref url="subgraph.md" %}
 [subgraph.md](subgraph.md)
