@@ -16,7 +16,7 @@ Provenance mining is a mechanism that allows an NFT to mine tokens over time tha
 
 HyperVIBES was built by Rarible DAO as a [global public good](https://newsletter.banklesshq.com/p/global-public-goods-and-the-protocol) to enrich the broader NFT ecosystem, encourage experimentation, and foster creative innovation.
 
-It does not directly relate to the Rarible exchange protocol nor rarible.com.
+It does not directly relate to the Rarible exchange protocol or rarible.com.
 
 {% hint style="info" %}
 **HyperVIBES works with any ERC-721 NFTs from any platform.**
@@ -72,7 +72,7 @@ You can view all realms that you are allowed to infuse within the [HyperVIBES dA
 
 ### What does it mean to claim infused tokens?
 
-Claiming tokens is possible after an infused NFT has mined them over time. The owner of the NFT can claim tokens at anytime, depending on realm configuration. Unclaimed tokens stay within the NFT across sales or transfers.
+Claiming tokens is possible after an infused NFT has mined them over time. The owner of the NFT can claim tokens at any time, depending on realm configuration. Unclaimed tokens stay within the NFT across sales or transfers.
 
 {% content-ref url="protocol/provenance-mining.md" %}
 [provenance-mining.md](protocol/provenance-mining.md)
@@ -90,7 +90,7 @@ You can view all realms that you can claim tokens from in the [HyperVIBES dApp](
 
 Any ERC-721 NFTs can be infused via the protocol, depending on realm configuration. **ERC-1155s cannot be infused.**
 
-HyperVIBES is not a minting platform, it was designed to allow infusing tokens into NFTs minted on any platform.
+HyperVIBES is not a minting platform. It was designed to allow infusing tokens into NFTs minted on any platform.
 
 {% hint style="info" %}
 **You do not have to use rarible.com NFTs with HyperVIBES. **
@@ -110,7 +110,7 @@ HyperVIBES will always be 100% free to use, with zero fees, forever.
 
 ### Is there a protocol or governance token?
 
-No, there is no upgradeable functionality nor fee extraction. There is nothing to govern on the protocol itself.
+No, there is no upgradeable functionality or fee extraction. There is nothing to govern on the protocol itself.
 
 Peripheral communities may choose to launch a DAO / token.
 
