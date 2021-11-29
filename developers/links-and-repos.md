@@ -42,6 +42,7 @@ All contracts are verified on their respective blockchain explorer apps.
 * Ethereum - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
 * Polygon - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
 * Arbitrum - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
+* Fantom - `0x26887a9f95e1794e52ae1b72bfa404c1562eed0e`
 
 #### Testnet Deployments
 
@@ -64,6 +65,7 @@ On-chain data from HyperVIBES is indexed via TheGraph:
 * Ethereum - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mainnet](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-mainnet)
 * Polygon -  [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-matic](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-matic)
 * Arbitrum - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-arbitrum-one](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-arbitrum-one)
+* Fantom - [https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-fantom](https://thegraph.com/hosted-service/subgraph/r-group-devs/hypervibes-fantom)
 
 #### Testnet Subgraphs
 
