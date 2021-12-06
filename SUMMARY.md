@@ -37,6 +37,6 @@
 
 * [HyperVIBES](https://hypervibes.xyz)
 * [Rarible DAO](https://rarible.org)
-* [Discord](https://discord.gg/ZtZqH7nfgG)
+* [Discord](http://discord.gg/zqsZsEWBbN)
 * [Twitter](https://twitter.com/raribledao)
 * [GitHub](https://github.com/R-Group-Devs)
